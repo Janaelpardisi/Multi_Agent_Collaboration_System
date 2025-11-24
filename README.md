@@ -6,8 +6,11 @@ I recently built a Multi-Agent System powered by Google Gemini (via LangChain) t
 Instead of relying on a single model to handle everything, I designed a pipeline of specialized agents that work together step by step:
 
 1️⃣ Research Agent – gathers raw, unprocessed information related to the user’s query.
+
 2️⃣ Summarizer Agent – condenses the research into key points for better understanding.
+
 3️⃣ Reasoning Agent – analyzes the summary, applies logical reasoning, and connects it back to the original question.
+
 4️⃣ Decision Agent – refines the reasoning into a final, clear, and user-friendly answer.
 
 ⚙️ Tech Stack Used
