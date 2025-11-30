@@ -584,7 +584,6 @@ in the Software without restriction...
 
 **Made with Jana Ashraf ❤️ **
 
-**صُنع بـ ❤️ والذكاء الاصطناعي**
 
 [⬆ Back to Top](#-multi-agent-ai-system)
 
